@@ -2,7 +2,7 @@
   "name": "ace-editor-bookmarklet",
   "version": "0.1.0",
   "main": "dist/editor.js",
-  "repository": "https://github.com/m3g4p0p/ace-bookmarklet.git",
+  "repository": "https://github.com/m3g4p0p/ace-editor-bookmarklet.git",
   "author": "m3g4p0p",
   "scripts": {
     "build": "webpack",
