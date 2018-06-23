@@ -1,0 +1,20 @@
+{
+  "name": "ace-editor-bookmarklet",
+  "version": "0.1.0",
+  "main": "dist/editor.js",
+  "repository": "https://github.com/m3g4p0p/ace-bookmarklet.git",
+  "author": "m3g4p0p",
+  "scripts": {
+    "build": "webpack",
+    "watch": "webpack --watch"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-env": "^1.6.1",
+    "loader-utils": "^1.1.0",
+    "standard": "^11.0.1",
+    "webpack": "^3.8.1",
+    "webpack-sources": "^1.1.0"
+  }
+}
